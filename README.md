@@ -6,7 +6,8 @@
 </p>
 
  # Programming Assignments for Reinforcement Learning Specialization
-
+***_Disclaimer_***<br>
+*You should only use the programming assignments placed in this repository as a resource and to get you out of a jam. Do not simply copy and paste the code if you are a participant in this course; doing so will not help you. Please watch every lecture video, finish the quizzes and code assignments yourself as it is comparatively simple to understand.*
 ## About
 The Reinforcement Learning Specialization consists of 4 courses exploring the power of adaptive learning systems and artificial intelligence (AI).
 
