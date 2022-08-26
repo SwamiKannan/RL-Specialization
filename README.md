@@ -1,5 +1,11 @@
 # [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
- Programming Assignments for Reinforcement Learning Specialization
+
+<p align="center">
+  <img src="https://github.com/SwamiKannan/RL-Specialization/blob/main/Course.PNG" />
+  <img src="https://github.com/SwamiKannan/RL-Specialization/blob/main/offered_by.PNG" />
+</p>
+
+ # Programming Assignments for Reinforcement Learning Specialization
 
 ## About
 The Reinforcement Learning Specialization consists of 4 courses exploring the power of adaptive learning systems and artificial intelligence (AI).
