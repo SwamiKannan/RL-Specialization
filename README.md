@@ -25,7 +25,3 @@ Understand how RL relates to and fits under the broader umbrella of machine lear
 Understand the space of RL algorithms (Temporal- Difference learning, Monte Carlo, Sarsa, Q-learning, Policy Gradient, Dyna, and more).   
 Understand how to formalize your task as a RL problem, and how to begin implementing a solution.
 
-## Please note:
-This repository is only for recording my work.
-
-PLEASE DO NOT USE THIS AS A REFERENCE FOR YOUR OWN PROGRAMMING ASSIGNMENTS
