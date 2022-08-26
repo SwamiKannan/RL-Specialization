@@ -7,13 +7,13 @@ Prerequisites: This course strongly builds on the fundamentals of Courses 1 and 
 
 By the end of this course, you will be able to: 
 
--Understand how to use supervised learning approaches to approximate value functions
--Understand objectives for prediction (value estimation) under function approximation
--Implement TD with function approximation (state aggregation), on an environment with an infinite state space (continuous state space)
--Understand fixed basis and neural network approaches to feature construction 
--Implement TD with neural network function approximation in a continuous state environment
--Understand new difficulties in exploration when moving to function approximation
--Contrast discounted problem formulations for control versus an average reward problem formulation
--Implement expected Sarsa and Q-learning with function approximation on a continuous state control task
--Understand objectives for directly estimating policies (policy gradient objectives)
--Implement a policy gradient method (called Actor-Critic) on a discrete state environment
+1. Understand how to use supervised learning approaches to approximate value functions
+2. Understand objectives for prediction (value estimation) under function approximation
+3. Implement TD with function approximation (state aggregation), on an environment with an infinite state space (continuous state space)
+4. Understand fixed basis and neural network approaches to feature construction 
+5. Implement TD with neural network function approximation in a continuous state environment
+6. Understand new difficulties in exploration when moving to function approximation
+7. Contrast discounted problem formulations for control versus an average reward problem formulation
+8. Implement expected Sarsa and Q-learning with function approximation on a continuous state control task
+9. Understand objectives for directly estimating policies (policy gradient objectives)
+10. Implement a policy gradient method (called Actor-Critic) on a discrete state environment
