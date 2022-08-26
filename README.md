@@ -1,6 +1,13 @@
 # [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
- Programming Assignments for Reinforcement Learning Specialization
 
+<p align="center">
+  <img src="https://github.com/SwamiKannan/RL-Specialization/blob/main/Course.PNG" />
+  <img src="https://github.com/SwamiKannan/RL-Specialization/blob/main/offered_by.PNG" />
+</p>
+
+ # Programming Assignments for Reinforcement Learning Specialization
+***_Disclaimer_***<br>
+*You should only use the programming assignments placed in this repository as a resource and to get you out of a jam. Do not simply copy and paste the code if you are a participant in this course; doing so will not help you. Please watch every lecture video, finish the quizzes and code assignments yourself as it is comparatively simple to understand.*
 ## About
 The Reinforcement Learning Specialization consists of 4 courses exploring the power of adaptive learning systems and artificial intelligence (AI).
 
@@ -18,7 +25,3 @@ Understand how RL relates to and fits under the broader umbrella of machine lear
 Understand the space of RL algorithms (Temporal- Difference learning, Monte Carlo, Sarsa, Q-learning, Policy Gradient, Dyna, and more).   
 Understand how to formalize your task as a RL problem, and how to begin implementing a solution.
 
-## Please note:
-This repository is only for recording my work.
-
-PLEASE DO NOT USE THIS AS A REFERENCE FOR YOUR OWN PROGRAMMING ASSIGNMENTS
