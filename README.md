@@ -5,7 +5,7 @@
   <img src="https://github.com/SwamiKannan/RL-Specialization/blob/main/offered_by.PNG" />
 </p>
 
- # Programming Assignments for Reinforcement Learning Specialization
+ # Programming Assignments
 ***_Disclaimer_***<br>
 *You should only use the programming assignments placed in this repository as a resource and to get you out of a jam. Do not simply copy and paste the code if you are a participant in this course; doing so will not help you. Please watch every lecture video, finish the quizzes and code assignments yourself as it is comparatively simple to understand.*
 ## About
